@@ -7,7 +7,7 @@ A full-stack **Dairy Management System** web application built using **Node.js**
 ## 📸 Screenshots
 
 ### 🏠 Homepage  
-![Homepage](./Home-page.png)
+![Homepage](./Home-Page.png)
 
 ### 📊 Dashboard  
 ![Dashboard](./Dashboard.png)
